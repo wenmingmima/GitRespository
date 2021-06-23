@@ -11,4 +11,5 @@ public class User {
     private int age ;
     private double height ;
     private String password ;
+	private String loginName ;
 }
