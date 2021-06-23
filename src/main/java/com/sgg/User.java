@@ -10,4 +10,5 @@ public class User {
     private String name ;
     private int age ;
     private double height ;
+    private String password ;
 }
