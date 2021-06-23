@@ -9,4 +9,5 @@ package com.sgg;
 public class User {
     private String name ;
     private int age ;
+    private double height ;
 }
